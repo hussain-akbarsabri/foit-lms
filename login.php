@@ -16,6 +16,7 @@
 		<!-- Header -->
 		<?php include("includes/header.php"); ?>
 
+		<br><br><br><br><br>
 		<!-- space for login -->
 		<div class="container">
 			<div class="panel panel-body panel-danger" style="background-color: #561209;">
@@ -41,7 +42,7 @@
 				</div>
 		 	</div>
 		</div>
-
+		<br><br><br><br>
 
 		<!-- Footer -->
 		<?php include("includes/footer.php"); ?>
